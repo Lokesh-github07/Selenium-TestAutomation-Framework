@@ -9,13 +9,15 @@ public class LoginPage {
 
     // Locators
     private By usernameField =
-            By.id("user-name");
+            By.id("pandelokesh18@gmail.com");
 
     private By passwordField =
-            By.id("password");
+            By.id("Lp2004@12");
 
     private By loginButton =
             By.id("login-button");
+    
+    
 
     // Constructor
     public LoginPage(WebDriver driver) {
